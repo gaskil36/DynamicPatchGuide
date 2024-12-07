@@ -5,7 +5,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, and a c
 
 ## Installation Instructions  
 # How to Install DynamicPATCH (for Windows Users)
-1. Install the latest version of [miniconda]([https://github.com/zay1996/DynamicPATCH](https://docs.anaconda.com/miniconda/install/)  
+1. Install the latest version of [miniconda](https://docs.anaconda.com/miniconda/install/)  
 2. Open Windows Powershell and make a new directory called ```dynamicpatch``` We recommend creating the directory in ```C/Users/<yourusername>``` for a simple file structure.
 3. Create a new Conda environment for DynamicPATCH, specifying your Python version:
    ```conda create  --name dynamicpatch python=<your_python_version>```
