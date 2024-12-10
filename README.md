@@ -85,6 +85,6 @@ One such organization is Blue Forests, an Indonesia-based organization dedicated
 ## Data
 | **Name**                          | **Source**     | **Resolution** | **Type**   |
 |-----------------------------------|----------------|----------------|------------|
-| Aquaculture Land Cover: Indonesia | [Clark Labs](https://www.aquaculture.earth/coastal/index.html)    | 15 meters      | .geotiff   |
+| Aquaculture Land Cover: Indonesia | [Clark Labs](https://www.aquaculture.earth/coastal/index.html)    | 15 meters      | .geotiff   |  
 Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The dataset includes 5 time points: 1999, 2014, 2018, 2020, and 2022. Each land cover raster is classified into 5 main categories, including Mangrove, Coastal Wetland, Pond Aquaculture, Water, and Other. We have clipped the dataset to Muna Island. We will focus on examining the dynamics of land change for the Mangrove category.  
 ![Muna Island Change](Muna%20Island%20Case%20Study/images/muna_island_change.gif)
