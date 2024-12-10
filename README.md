@@ -1,4 +1,9 @@
-# A Guide to DynamicPATCH and Analyzing Change in Indonesia Mangroves
+# A Guide to DynamicPATCH and Analyzing Change in Indonesia Mangroves  
+
+
+
+
+
 
 A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along with a case study that applies DynamicPATCH to Land Change Modeling.
 
@@ -73,4 +78,18 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     ```bash
     python interface.py
     ```
-6. In your Interpreter, select the ```command.py``` python file.
+6. In your Interpreter, select the ```command.py``` python file.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+# A Guide to DynamicPATCH and Analyzing Change in Indonesia Mangroves
