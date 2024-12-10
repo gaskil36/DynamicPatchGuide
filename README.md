@@ -83,8 +83,8 @@ In the global tropics, including in Indonesia, the expansion of shrimp aquacultu
 One such organization is Blue Forests, an Indonesia-based organization dedicated to understanding and restoring watersheds. The organization also relies heavily on mapping to understand coastal ecosystems and target their work. They utilize Clark Labs data to understand where Mangroves used to be, and then target those former sites for restoration. We contacted Blue Forests to see if our research  might support their work and they suggested we focus on Muna Island, which is located in the Southeast Sulawesi province of Indonesia.  
 
 ## Study Area: Muna Island, Southeast Sulawesi, Indonesia  
-<p align="center">
-  <img src="Muna%20Island%20Case%20Study/images/blue_forests.png" alt="Muna Island Change" width="400">
+<p align="left">
+  <img src="Muna%20Island%20Case%20Study/images/blue_forests.png" alt="Muna Island Change" width="800">
 </p>  
 *Credit: Blue Forests*  
 
