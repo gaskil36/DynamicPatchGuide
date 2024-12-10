@@ -125,34 +125,33 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
 <div align="center">
 
 ## Outputs (Using 4-Connectivity)
-Results of DynamicPATCH - Full Extent (Muna Island)
+Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014  
 
   <tr>
     <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/1999_2014_con4.png" alt="1999_2014_con4" width="400"></td>
     <td><img src="Muna%20Island%20Case%20Study/images/table_90_14.png" alt="2014_2018_con4" width="400"></td>
   </tr>
   <br />
-  <br />
-  <br />
+  <br />  
+  Results of DynamicPATCH - Full Extent (Muna Island) 2014-2018  
   <tr>
     <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2018_2020_con4.png" alt="2018_2020_con4" width="400"></td>
     <td><img src="Muna%20Island%20Case%20Study/images/table_14_18.png" alt="2020_2022_con4" width="400"></td>
   </tr>
   <br />
-  <br />
-  <br />
+  <br />  
+  Results of DynamicPATCH - Full Extent (Muna Island) 2018-2020  
     <tr>
     <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2018_2020_con4.png" alt="2018_2020_con4" width="400"></td>
     <td><img src="Muna%20Island%20Case%20Study/images/table_18_20.png" alt="2020_2022_con4" width="400"></td>
   </tr>
   <br />
-  <br />
-  <br />
+  <br />  
+  Results of DynamicPATCH - Full Extent (Muna Island) 2020-2022  
     <tr>
     <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2018_2020_con4.png" alt="2018_2020_con4" width="400"></td>
     <td><img src="Muna%20Island%20Case%20Study/images/table_20_22.png" alt="2020_2022_con4" width="400"></td>
   </tr>
-  <br />
   <br />
   <br />  
   
