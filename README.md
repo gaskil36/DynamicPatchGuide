@@ -43,7 +43,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
 2. Any noData values in the extent should be reclassified to a value of -1. In our tests, dynamicPATCH raised errors with a noData value of -9999, which is common in other GIS software.
 3. A consistent file naming structure should be followed for each .tif file containing a time point in the analysis. A best practice is to simply name the file in order of year, such as '1990_presence', '2000_presence', '2010_presence'.  
 
-### How to Run DynamicPATCH (for Windows Users)  
+### Running DynamicPATCH (for Windows Users)  
 #### Option 1: Using the Graphical User Interface
 1. Open Windows Powershell    
 2. Change your directory to the `dynamicpatch` folder created in step 2 of the installation instructions:
@@ -115,3 +115,24 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
   <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
 </p>  
 
+## Workflow  
+1. Followed steps from the "Installation Instructions" (see above) to set up DynamicPATCH on our computers.  
+2. Downloaded Mangrove data from Clark Labs  
+3. Reclassified raw data to show Mangrove presence (1) and absence (0) for all time intervals. NoData values were reclassified to 2.  
+4. Clipped the data to the extent of Muna Island
+5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)
+
+## Outputs (Using 4-Connectivity)
+Results of DynamicPATCH - Full Extent (Muna Island)  
+<p align="center">
+  <img src="Muna%20Island%20Case%20Study/output/Connectivity$4/1999_2014_con4.png" alt="1999_2014_con4" width="400">
+</p> 
+<p align="center">
+  <img src="Muna%20Island%20Case%20Study/output/Connectivity$4/2014_2018_con4.png" alt="1999_2014_con4" width="400">
+</p> 
+<p align="center">
+  <img src="Muna%20Island%20Case%20Study/output/Connectivity$4/2014_2018_con4.png" alt="2018_2020_con4.png" width="400">  
+</p> 
+<p align="center">
+  <img src="Muna%20Island%20Case%20Study/output/Connectivity$4/2014_2018_con4.png" alt="2020_2022_con4.png width="400">  
+</p> 
