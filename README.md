@@ -86,7 +86,7 @@ One such organization is Blue Forests, an Indonesia-based organization dedicated
 <p align="left">
   <img src="Muna%20Island%20Case%20Study/images/blue_forests.png" alt="Muna Island Change" width="1000">
 </p>  
-    *Credit: Blue Forests*  
+    *Credit: Blue Forests.*  
 *Note: You can run `python --version` to check the currently installed version of Python.*  
 
 ## Data  
