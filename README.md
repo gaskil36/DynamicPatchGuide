@@ -83,7 +83,7 @@ In the global tropics, including in Indonesia, the expansion of shrimp aquacultu
 One such organization is Blue Forests, an Indonesia-based organization dedicated to understanding and restoring watersheds. The organization also relies heavily on mapping to understand coastal ecosystems and target their work. We contacted Blue Forests to see if our research  might support their work and they suggested we focus on Muna Island, which is located in the Southeast Sulawesi province of Indonesia.  
 
 ## Data
-<div style="width:50%; float:center;">
+<div style="width:50%">
   <table>
     <thead>
       <tr>
@@ -104,7 +104,7 @@ One such organization is Blue Forests, an Indonesia-based organization dedicated
   </table>
 </div>
 
-<div style="text-align:center;">
+<div>
 <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
 </div>  
 
