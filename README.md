@@ -83,8 +83,9 @@ In the global tropics, including in Indonesia, the expansion of shrimp aquacultu
 One such organization is Blue Forests, an Indonesia-based organization dedicated to understanding and restoring watersheds. The organization also relies heavily on mapping to understand coastal ecosystems and target their work. We contacted Blue Forests to see if our research  might support their work and they suggested we focus on Muna Island, which is located in the Southeast Sulawesi province of Indonesia.  
 
 ## Data
-![Visual Studio Code](Muna%20Island%20Case%20Study/images/muna_island_change.gif)
-
+<div style="text-align:center;">
+  <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
+</div>
 
 Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The dataset includes 5 time points: 1999, 2014, 2018, 2020, and 2022. Each land cover raster is classified into 5 main categories, including Mangrove, Coastal Wetland, Pond Aquaculture, Water, and Other. We have clipped the dataset to Muna Island. We will focus on examining the dynamics of land change for the Mangrove category. 
 
@@ -108,9 +109,3 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
     </tbody>
   </table>
 </div>
-
-<div style="text-align:center;">
-  <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
-</div>
-
-
