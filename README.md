@@ -121,10 +121,10 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
 3. Reclassified raw data to show Mangrove presence (1) and absence (0) for all time intervals. NoData values were reclassified to 2.  
 4. Clipped the data to the extent of Muna Island
 5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)
+   
+## Outputs (Using 8-Connectivity)
 
 <div align="center">
-
-## Outputs (Using 8-Connectivity)
 Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014  
 
   <tr>
