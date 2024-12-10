@@ -39,7 +39,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
 
 
 ### How to Run DynamicPATCH (for Windows Users)  
-## Option 1: Using the Graphical User Interface
+#### Option 1: Using the Graphical User Interface
 1. Open Windows Powershell    
 2. Change your directory to the `dynamicpatch` folder created in step 2 of the installation instructions:
    ```bash
@@ -50,6 +50,21 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     cd tests
     ```  
 5. Run the GUI interface Python script:  
+    ```bash
+    python interface.py
+    ```  
+#### Option 2: Using the Command Line Interface and a Python Interpreter (IDE)  
+*We recommend that users download and install the latest version of [Visual Studio Code](https://code.visualstudio.com/download) to successfully run the program and easily view the output.*  
+1. 1. Open Windows Powershell    
+2. Change your directory to the `dynamicpatch` folder created in step 2 of the installation instructions:
+   ```bash
+   cd dynamicpatch
+   ```  
+4. Change your directory to the ```tests``` folder:
+    ```bash
+    cd tests
+    ```  
+5. Open the folder in Visual Studio Code (or the Python IDE of your choice):  
     ```bash
     python interface.py
     ```
