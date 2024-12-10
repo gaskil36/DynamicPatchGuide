@@ -171,7 +171,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
 Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014  
 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/1999_2014_con4.png" alt="1999_2014_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%208/1999_2014_con8.png" alt="1999_2014_con4" width="400"></td>
     <td><img src="Muna%20Island%20Case%20Study/images/table_90_14.png" alt="2014_2018_con4" width="400"></td>
   </tr>  
   <br />  
