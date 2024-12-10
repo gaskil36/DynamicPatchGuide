@@ -186,8 +186,8 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
 <br /> 
 <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%208/1999_2014_con8.png" alt="DynamicPATCH results from 1999 to 2014 using 8-Connectivity" width="400"></td>
-    <td><img src="Muna%20Island%20Case%20Study/images/table_90_14.png" alt="2014_2018_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_num_patch.png" alt="Number of Transition Patches for Each Transition Type (4 Connectivity)" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_num_patch.png" alt="Number of Transition Patches for Each Transition Type (8 Connectivity)" width="400"></td>
   </tr>  
   <br />  
   <br /> 
@@ -195,8 +195,8 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />  
   <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%208/2014_2018_con8.png" alt="DynamicPATCH results from 2014 to 2018 using 8-Connectivity" width="400"></td>
-    <td><img src="Muna%20Island%20Case%20Study/images/table_14_18.png" alt="2020_2022_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_dist_patch.png" alt="Distribution of Transition Patch Sizes (4 Connectivity) width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_dist_patch.png" alt="Distribution of Transition Patch Sizes (8 Connectivity) width="400"></td>
   </tr>
   <br />   
   <br /> 
@@ -204,8 +204,8 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />
   <br /> 
     <tr>
-    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%208/2018_2020_con8.png" alt="DynamicPATCH results from 2018 to 2020 using 8-Connectivity" width="400"></td>
-    <td><img src="Muna%20Island%20Case%20Study/images/table_18_20.png" alt="2020_2022_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_types.png" alt="Annual Gross Loss and Gross Gain by Transition Types (4 Connectivity)" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_gross_types.png" alt="Annual Gross Loss and Gross Gain by Transition Types (8 Connectivity)" width="400"></td>
   </tr>
   <br />  
   <br /> 
@@ -213,8 +213,8 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />
   <br /> 
     <tr>
-    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%208/2020_2022_con8.png" alt="DynamicPATCH results from 2020 to 2022 using 8-Connectivity" width="400"></td>
-    <td><img src="Muna%20Island%20Case%20Study/images/table_20_22.png" alt="2020_2022_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_num_patch.png" alt="Annual Gross Increase and Decrease in Number of Patches (4 Connectivity)" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_gross_num_patch.png" alt="Annual Gross Increase and Decrease in Number of Patches (8 Connectivity)" width="400"></td>
   </tr>
   <br />
   <br />
