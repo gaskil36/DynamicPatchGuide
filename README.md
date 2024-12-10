@@ -114,8 +114,8 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
 
 
 
-<div style="width:50%; margin:auto; text-align:center;">
-  <table>
+<div style="width:100%; text-align:center;">
+  <table style="margin:auto;">
     <thead>
       <tr>
         <th><b>Name</b></th>
@@ -138,4 +138,5 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
 <div style="text-align:center;">
   <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
 </div>
+
 
