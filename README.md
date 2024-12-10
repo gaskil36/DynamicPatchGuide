@@ -59,7 +59,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     python interface.py
     ```
 <p align="left">
-  <img src="Muna%20Island%20Case%20Study/images/gui.png" alt="Muna Island Change" width="1000">
+  <img src="Muna%20Island%20Case%20Study/images/gui.png" alt="Muna Island Change" width="500">
 </p>  
 
 #### Option 2: Using the Command Line Interface and a Python Interpreter (IDE)  
