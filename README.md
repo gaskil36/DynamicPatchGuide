@@ -57,7 +57,11 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
 5. Run the GUI interface Python script:  
     ```bash
     python interface.py
-    ```  
+    ```
+<p align="left">
+  <img src="Muna%20Island%20Case%20Study/images/gui.png" alt="Muna Island Change" width="1000">
+</p>  
+
 #### Option 2: Using the Command Line Interface and a Python Interpreter (IDE)  
 *We recommend that users download and install the latest version of [Visual Studio Code](https://code.visualstudio.com/download) to successfully run the program and easily view the output.*  
 1. 1. Open Windows Powershell    
@@ -73,7 +77,10 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     ```bash
     python interface.py
     ```
-6. In your Interpreter, select the ```command.py``` python file.  
+6. In your Interpreter, select the ```command.py``` python file.
+<p align="left">
+  <img src="Muna%20Island%20Case%20Study/images/cmd.png" alt="Muna Island Change" width="1000">
+</p>  
 
 # Case Study: Coastal Mangroves in Indonesia Using DynamicPATCH  
 This case study serves as a practical example to using the tools provided in DynamicPATCH, in addition to analysis and interpretations of the package's output.  
