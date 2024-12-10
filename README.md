@@ -43,7 +43,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
 2. Any noData values in the extent should be reclassified to a value of -1. In our tests, dynamicPATCH raised errors with a noData value of -9999, which is common in other GIS software.
 3. A consistent file naming structure should be followed for each .tif file containing a time point in the analysis. A best practice is to simply name the file in order of year, such as '1990_presence', '2000_presence', '2010_presence'.  
 
-### How to Run DynamicPATCH (for Windows Users)  
+### Running DynamicPATCH (for Windows Users)  
 #### Option 1: Using the Graphical User Interface
 1. Open Windows Powershell    
 2. Change your directory to the `dynamicpatch` folder created in step 2 of the installation instructions:
@@ -80,7 +80,14 @@ This case study serves as a practical example to using the tools provided in Dyn
 
 ## Background  
 In the global tropics, including in Indonesia, the expansion of shrimp aquaculture in brackish coastal ponds has led to the loss of essential mangrove ecosystems. Mangroves provide coastal protection, carbon sequestration, and fish nurseries (Eastman et al, 2015). Noting the importance of mangroves, there are many people and organizations slowing the loss of and restoring mangroves.
-One such organization is Blue Forests, an Indonesia-based organization dedicated to understanding and restoring watersheds. The organization also relies heavily on mapping to understand coastal ecosystems and target their work. We contacted Blue Forests to see if our research  might support their work and they suggested we focus on Muna Island, which is located in the Southeast Sulawesi province of Indonesia.  
+One such organization is Blue Forests, an Indonesia-based organization dedicated to understanding and restoring watersheds. The organization also relies heavily on mapping to understand coastal ecosystems and target their work. They utilize Clark Labs data to understand where Mangroves used to be, and then target those former sites for restoration. We contacted Blue Forests to see if our research  might support their work and they suggested we focus on Muna Island, which is located in the Southeast Sulawesi province of Indonesia.  
+
+## Study Area: Muna Island, Southeast Sulawesi, Indonesia  
+<p align="left">
+  <img src="Muna%20Island%20Case%20Study/images/blue_forests.png" alt="Muna Island Change" width="1000">
+</p>  
+Credit: Map Created by Blue Forests  
+
 
 ## Data  
 Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The dataset includes 5 time points: 1999, 2014, 2018, 2020, and 2022. Each land cover raster is classified into 5 main categories, including Mangrove, Coastal Wetland, Pond Aquaculture, Water, and Other. We have clipped the dataset to Muna Island. We will focus on examining the dynamics of land change for the Mangrove category. 
@@ -108,3 +115,26 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
   <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
 </p>  
 
+## Workflow  
+1. Followed steps from the "Installation Instructions" (see above) to set up DynamicPATCH on our computers.  
+2. Downloaded Mangrove data from Clark Labs  
+3. Reclassified raw data to show Mangrove presence (1) and absence (0) for all time intervals. NoData values were reclassified to 2.  
+4. Clipped the data to the extent of Muna Island
+5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)
+
+<div align="center">
+
+## Outputs (Using 4-Connectivity)
+Results of DynamicPATCH - Full Extent (Muna Island)
+
+</div>
+<table align="center">
+  <tr>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/1999_2014_con4.png" alt="1999_2014_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2014_2018_con4.png" alt="2014_2018_con4" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2018_2020_con4.png" alt="2018_2020_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2020_2022_con4.png" alt="2020_2022_con4" width="400"></td>
+  </tr>
+</table>
