@@ -122,7 +122,7 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
 4. Clipped the data to the extent of Muna Island
 5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)
    
-## Outputs (Using 8-Connectivity)
+## Outputs (Using 8-Connectivity)  
 
 <div align="center">
 Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014  
