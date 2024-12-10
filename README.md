@@ -36,3 +36,20 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     ```bash
     git clone https://github.com/zay1996/DynamicPATCH .
     ```
+
+
+### How to Run DynamicPATCH (for Windows Users)  
+## Option 1: Using the Graphical User Interface
+1. Open Windows Powershell    
+2. Change your directory to the `dynamicpatch` folder created in step 2 of the installation instructions:
+   ```bash
+   cd dynamicpatch
+   ```  
+4. Change your directory to the ```tests``` folder:
+    ```bash
+    cd tests
+    ```  
+5. Run the GUI interface Python script:  
+    ```bash
+    python interface.py
+    ```
