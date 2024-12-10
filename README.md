@@ -186,8 +186,8 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
 <br /> 
 <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_num_patch.png" alt="Number of Transition Patches for Each Transition Type (4 Connectivity)" width="600"></td>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_num_patch.png" alt="Number of Transition Patches for Each Transition Type (8 Connectivity)" width="600"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_num_patch.png" alt="Number of Transition Patches for Each Transition Type (4 Connectivity)" width="550"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_num_patch.png" alt="Number of Transition Patches for Each Transition Type (8 Connectivity)" width="550"></td>
   </tr>  
   <br />  
   <br /> 
