@@ -79,7 +79,7 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     ```
 6. In your Interpreter, select the ```command.py``` python file.
 <p align="left">
-  <img src="Muna%20Island%20Case%20Study/images/cmd.png" alt="Muna Island Change" width="1000">
+  <img src="Muna%20Island%20Case%20Study/images/cmd.jpg" alt="Muna Island Change" width="1000">
 </p>  
 
 # Case Study: Coastal Mangroves in Indonesia Using DynamicPATCH  
