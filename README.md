@@ -137,3 +137,21 @@ Results of DynamicPATCH - Full Extent (Muna Island)
   <img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2020_2022_con4.png" alt="2020_2022_con4" width="400">  
 </p>
 
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/1999_2014_con4.png" alt="1999_2014_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2014_2018_con4.png" alt="2014_2018_con4" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2018_2020_con4.png" alt="2018_2020_con4" width="400"></td>
+    <td><img src="Muna%20Island%20Case%20Study/output/Connectivity%204/2020_2022_con4.png" alt="2020_2022_con4" width="400"></td>
+  </tr>
+</table>
+
