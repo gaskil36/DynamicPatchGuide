@@ -64,7 +64,8 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
     ```bash
     cd tests
     ```  
-5. Open the folder in Visual Studio Code (or the Python IDE of your choice):  
+5. Open the folder in Visual Studio Code (or the Python Interpreter of your choice):  
     ```bash
     python interface.py
     ```
+6. In your Interpreter, select the ```command.py``` python file.
