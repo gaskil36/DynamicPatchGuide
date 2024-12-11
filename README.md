@@ -146,15 +146,13 @@ Our primary dataset is the Clark Labs Aquaculture Land Cover for Indonesia. The 
   <img src="Muna%20Island%20Case%20Study/images/muna_island_change.gif" alt="Muna Island Change" width="400">
 </p>  
 
-<p align="left">
 ## Workflow  
 1. Followed steps from the "Installation Instructions" (see above) to set up DynamicPATCH on our computers.  
 2. Downloaded Mangrove data from Clark Labs  
 3. Reclassified raw data to show Mangrove presence (1) and absence (0) for all time intervals. NoData values were reclassified to 2.  
 4. Clipped the data to the extent of Muna Island
-5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)
-</p>  
-   
+5. Ran DynamicPATCH according to the "Running DynamicPATCH section" (see above)  
+
 ## Output Maps (Using 8-Connectivity)  
 
 <div align="center">
