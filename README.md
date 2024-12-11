@@ -97,9 +97,9 @@ DynamicPATCH offers users the ability to export output maps as a .geotiff, which
 <div align="center">
   <tr>
     <td><img src="Muna%20Island%20Case%20Study/images/QGIS_1.png" alt="Each band must be a unique value in QGIS" width="250"></td>  
-    <td><img src="Muna%20Island%20Case%20Study/images/color1.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="50"></td>  
-    <td><img src="Muna%20Island%20Case%20Study/images/color2.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="50"></td>  
-    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_3.png" alt="The transparency band in QGIS must be set to None" width="290"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/color1.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="65"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/color2.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="65"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_3.png" alt="The transparency band in QGIS must be set to None" width="300"></td>  
   </tr>  
   <br />  
   <br /> 
