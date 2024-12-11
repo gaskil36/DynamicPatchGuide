@@ -193,6 +193,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />
   <br /> 
+</div>
 
 ## Output Graphs
 
@@ -233,3 +234,4 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />
   <br />
+</div>
