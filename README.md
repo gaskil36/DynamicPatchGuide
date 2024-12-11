@@ -95,8 +95,6 @@ DynamicPATCH offers users the ability to export output maps as a .geotiff, which
 4. A custom color palette must be created in order to distinguish between categories defined by DynamicPATCH. You can create this yourself, or use the ```colorramp.clr``` file on our repository to automatically load this palette in QGIS.
 
 <div align="left">
-<br /> 
-<br /> 
   <tr>
     <td><img src="Muna%20Island%20Case%20Study/images/QGIS_1.png" alt="Each band must be a unique value in QGIS" width="250"></td>  
     <td><img src="Muna%20Island%20Case%20Study/images/color1.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="75"></td>  
