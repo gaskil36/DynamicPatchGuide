@@ -2,7 +2,9 @@
 
 A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along with a case study that applies DynamicPATCH to Land Change Modeling.
 
-## Please review the original [DynamicPATCH](https://github.com/zay1996/DynamicPATCH) repository to read the documentation and view the source code.
+## Please review the original [DynamicPATCH](https://github.com/zay1996/DynamicPATCH) repository to read the documentation and view the source code.  
+
+For more information and detailed analysis of our case study, please review the attached PDF ```Dynamic_Patch_Coastal_mangrove```.  
 
 ## Installation Instructions  
 
