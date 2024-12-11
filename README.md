@@ -39,7 +39,11 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
 
 ### Important Considerations Before Executing DynamicPATCH  
 #### Data Format  
-1. The input data for DynamicPATCH should include only presence and absence data for the category of interest. Users should follow best practices in creating a boolean map, in which presence=1 and absence=0
+1. The input data for DynamicPATCH should include only presence and absence data for the category of interest. Users should follow best practices in creating a boolean map, in which presence=1 and absence=0. See the example below:  
+<p align="left">
+  <img src="Muna%20Island%20Case%20Study/images/bool.png" alt="Boolean map of mangrove absence/presence" width="1000">
+</p>  
+
 2. Any noData values in the extent should be reclassified to a value of -1. In our tests, dynamicPATCH raised errors with a noData value of -9999, which is common in other GIS software.
 3. A consistent file naming structure should be followed for each .tif file containing a time point in the analysis. A best practice is to simply name the file in order of year, such as '1990_presence', '2000_presence', '2010_presence'.  
 
