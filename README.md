@@ -182,7 +182,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
 ## Output Graphs
 
 <div align="center">
-    Number of Transition Patches for Each Transition Type (Left: 4 Connectivity, Right: 8 Connectivity)  
+    Number of Transition Patches for Each Transition Type (Top: 4 Connectivity, Bottom: 8 Connectivity)  
 <br /> 
 <br /> 
   <tr>
@@ -191,7 +191,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>  
   <br />  
   <br /> 
-  Distribution of Transition Patch Sizes (Left: 4 Connectivity, Right: 8 Connectivity) 
+  Distribution of Transition Patch Sizes (Top: 4 Connectivity, Bottom: 8 Connectivity) 
   <br />  
   <br /> 
   <tr>
@@ -200,7 +200,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />   
   <br /> 
-  Annual Gross Loss and Gross Gain by Transition Types (Left: 4 Connectivity, Right: 8 Connectivity) 
+  Annual Gross Loss and Gross Gain by Transition Types (Top: 4 Connectivity, Bottom: 8 Connectivity) 
   <br />
   <br /> 
     <tr>
@@ -209,7 +209,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />  
   <br /> 
-  Annual Gross Increase and Decrease in Number of Patches (Left: 4 Connectivity, Right: 8 Connectivity) 
+  Annual Gross Increase and Decrease in Number of Patches (Top: 4 Connectivity, Bottom: 8 Connectivity) 
   <br />
   <br /> 
     <tr>
