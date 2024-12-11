@@ -200,7 +200,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
 <br /> 
 <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_num_patch.png" alt="Number of Transition Patches for Each Transition Type (4 Connectivity)" width="500"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_num_patch.png" alt="Number of Transition Patches for Each Transition Type (4 Connectivity)" width="500"></td><br /> 
     <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_num_patch.png" alt="Number of Transition Patches for Each Transition Type (8 Connectivity)" width="500"></td>
   </tr>  
   <br />  
@@ -209,7 +209,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />  
   <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_dist_patch.png" alt="Distribution of Transition Patch Sizes (4 Connectivity)" width="500"></td> 
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_dist_patch.png" alt="Distribution of Transition Patch Sizes (4 Connectivity)" width="500"></td><br /> 
       <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_dist_patch.png" alt="Distribution of Transition Patch Sizes (8 Connectivity)" width="500"></td>
   </tr>
   <br />   
@@ -218,7 +218,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />
   <br /> 
     <tr>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_types.png" alt="Annual Gross Loss and Gross Gain by Transition Types (4 Connectivity)" width="500"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_types.png" alt="Annual Gross Loss and Gross Gain by Transition Types (4 Connectivity)" width="500"></td><br /> 
     <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_gross_types.png" alt="Annual Gross Loss and Gross Gain by Transition Types (8 Connectivity)" width="500"></td>
   </tr>
   <br />  
@@ -227,7 +227,7 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   <br />
   <br /> 
     <tr>
-    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_num_patch.png" alt="Annual Gross Increase and Decrease in Number of Patches (4 Connectivity)" width="500"></td>
+    <td><img src="Muna%20Island%20Case%20Study/Graphs/con_4_gross_num_patch.png" alt="Annual Gross Increase and Decrease in Number of Patches (4 Connectivity)" width="500"></td><br /> 
     <td><img src="Muna%20Island%20Case%20Study/Graphs/con_8_gross_num_patch.png" alt="Annual Gross Increase and Decrease in Number of Patches (8 Connectivity)" width="500"></td>
   </tr>
   <br />
