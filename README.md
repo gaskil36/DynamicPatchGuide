@@ -82,6 +82,14 @@ A step-by-step guide to using Aiyin Zhang's DynamicPATCH Python package, along w
   <img src="Muna%20Island%20Case%20Study/images/cmd.png" alt="Muna Island Change" width="1000">
 </p>  
 
+### How to Visualize Output Maps Outside of DynamicPATCH  
+DynamicPATCH offers users the ability to export output maps as a .geotiff, which can be opened in a variety of GIS software for visualization or further analysis.  
+#### Visualizing in QGIS  
+1. The resulting maps of DynamicPATCH for each time interval are stored as individual bands in the .geotiff file. Band 1 stores the first time interval (e.g. 2000-2010), while Band 2 stores the second time interval (e.g. 2010-2020). This pattern continues for the number of time intervals you have. The number of bands corresponds to the number of specified time intervals.  
+2. In QGIS, you can create layers for indivudal time intervals by making copies of the file for each time interval, changing the the symbology to unique values, and selecting the corresponding band for each time interval.
+3. Note: Ensure that the transparency band is set to "none." by default, QGIS may select a band that interferes with visualization.
+4. A custom color palette must be created in order to distinguish between categories defined by DynamicPATCH. You can create this yourself, or use the ```colorramp.clr``` file on our repository to automatically load this palette in QGIS.  
+
 # Case Study: Coastal Mangroves in Indonesia Using DynamicPATCH  
 This case study serves as a practical example to using the tools provided in DynamicPATCH, in addition to analysis and interpretations of the package's output.  
 
@@ -168,16 +176,6 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />
   <br /> 
-
-
-
-
-
-
-
-
-
-
 
 ## Output Graphs
 
