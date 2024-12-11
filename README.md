@@ -94,14 +94,13 @@ DynamicPATCH offers users the ability to export output maps as a .geotiff, which
 3. Note: Ensure that the transparency band is set to "none." by default, QGIS may select a band that interferes with visualization.
 4. A custom color palette must be created in order to distinguish between categories defined by DynamicPATCH. You can create this yourself, or use the ```colorramp.clr``` file on our repository to automatically load this palette in QGIS.
 
-<div align="center">
-    Number of Transition Patches for Each Transition Type (Top: 4 Connectivity, Bottom: 8 Connectivity)  
+<div align="left">
 <br /> 
 <br /> 
   <tr>
-    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_1.png" alt="Each band must be a unique value in QGIS" width="500"></td>  
-    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_2.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="500"></td>  
-    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_3.png" alt="The transparency band in QGIS must be set to None" width="500"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_1.png" alt="Each band must be a unique value in QGIS" width="250"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_2.png" alt="Example of color ramp to symbolize DynamicPATCH results" width="250"></td>  
+    <td><img src="Muna%20Island%20Case%20Study/images/QGIS_3.png" alt="The transparency band in QGIS must be set to None" width="250"></td>  
   </tr>  
   <br />  
   <br /> 
