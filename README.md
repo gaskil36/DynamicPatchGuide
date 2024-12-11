@@ -94,7 +94,7 @@ DynamicPATCH offers users the ability to export output maps as a .geotiff, which
 1. The resulting maps of DynamicPATCH for each time interval are stored as individual bands in the .geotiff file. Band 1 stores the first time interval (e.g. 2000-2010), while Band 2 stores the second time interval (e.g. 2010-2020). This pattern continues for the number of time intervals you have. The number of bands corresponds to the number of specified time intervals.  
 2. In QGIS, you can create layers for indivudal time intervals by making copies of the file for each time interval, changing the the symbology to unique values, and selecting the corresponding band for each time interval.
 3. Note: Ensure that the transparency band is set to "none." by default, QGIS may select a band that interferes with visualization.
-4. A custom color palette must be created in order to distinguish between categories defined by DynamicPATCH. You can create this yourself, or use the ```colorramp.clr``` file on our repository to automatically load this palette in QGIS.
+4. A custom color palette must be created in order to distinguish between categories defined by DynamicPATCH. You can create this yourself, or use the [colorramp.clr](colorramp.clr) file on our repository to automatically load this palette in QGIS.
 
 <div align="center">
   <tr>
