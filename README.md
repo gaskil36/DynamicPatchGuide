@@ -104,7 +104,8 @@ DynamicPATCH offers users the ability to export output maps as a .geotiff, which
     <td><img src="Muna%20Island%20Case%20Study/images/QGIS_3.png" alt="The transparency band in QGIS must be set to None" width="300"></td>  
   </tr>  
   <br />  
-  <br /> 
+  <br />
+</div>
 
 # Case Study: Coastal Mangroves in Indonesia Using DynamicPATCH  
 This case study serves as a practical example to using the tools provided in DynamicPATCH, in addition to analysis and interpretations of the package's output.  
