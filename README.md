@@ -234,4 +234,5 @@ Results of DynamicPATCH - Full Extent (Muna Island) 1999-2014
   </tr>
   <br />
   <br />
-</div>
+</div>  
+For more detailed information on graph interpretation, zoomed-in maps of DynamicPATCH, and the full analysis, please review the attached presentation: [Dynamic Patch Analysis of Coastal Mangroves in Indonesia](Dynamic_Patch_Coastal_mangrove.pdf).  
